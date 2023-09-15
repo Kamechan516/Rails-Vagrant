@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/app":{"create":"true","guestpath":"/var/www/app","hostpath":"C:/Users/user/Documents/vagrant/Debian-Rails/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/user/Documents/vagrant/Debian-Rails","disabled":false,"__vagrantfile":true}}}
